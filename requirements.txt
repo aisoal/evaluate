@@ -1,0 +1,25 @@
+# --- Core AI & Deep Learning ---
+torch
+transformers>=4.30.0
+accelerate
+sentencepiece
+safetensors
+sentence-transformers
+
+# --- Evaluation Metrics ---
+bert-score
+rouge-score
+nltk
+
+# --- Data Processing & Statistics ---
+numpy
+pandas
+scipy
+
+# --- Visualization ---
+seaborn
+matplotlib
+
+# --- Utilities & PDF ---
+tqdm
+pymupdf
